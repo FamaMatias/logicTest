@@ -1,0 +1,28 @@
+
+_
+java:S1192~"IDefine a constant instead of duplicating this literal "   %s   " 3 times.(ÎîŠÓ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•®±Êûÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘
+T
+java:S1854"9Remove this useless assignment to local variable "digit".(ÿîªßûÿÿÿÿ
+V
+java:S1854
+";Remove this useless assignment to local variable "entrada".(¥µÙ“þÿÿÿÿ
+G
+java:S1481
+",Remove this unused "entrada" local variable.(¥µÙ“þÿÿÿÿ
+E
+java:S1481"*Remove this unused "digit" local variable.(ÿîªßûÿÿÿÿ
+<	java:S131""Add a default case to this switch.( ®€üÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(úÅú¯ùÿÿÿÿ
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(ÎîŠÓ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ü»¸¢úÿÿÿÿ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(àžøýùÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ñ’þº
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+T	java:S106Ž"9Replace this use of System.out or System.err by a logger.(…‚Û¬þÿÿÿÿ
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8Á‘è¯¸0
